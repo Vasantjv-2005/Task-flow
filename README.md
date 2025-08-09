@@ -54,5 +54,5 @@ Row Level Security is **enabled** for sensitive tables with policies:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/Vasantjv-2005/Task-flow.git
+
